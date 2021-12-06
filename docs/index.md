@@ -3,7 +3,7 @@ layout: cv
 title: Joseph Davis' Resume
 ---
 # Joseph Davis
-Business Analytics major at Bringham Young University - Idaho
+Business Analytics Major at Bringham Young University - Idaho
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
@@ -16,71 +16,64 @@ Business Analytics major at Bringham Young University - Idaho
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2018 - 2020`
+__Mesa Community College__, Mesa, AZ
+Associates In Business & Communication
 
-- Full academic scholarship with 4.0 GPA
+- Related Courses: Business Communication, Math Analysis for Business, Managerial Accounting
 
-`Expected 2029`
+`Expected 2022`
 __Brigham Young University - Idaho__, Rexburg, ID
+Bachelors In Business Analytics
 
-- 4.0 Major GPA
+- GPA: 3.8
 
+- Related Courses: Data Science Programming, Intro to Databases, Business Analytics, Spreadsheet Analysis, Intermediate Statistics, Financial Management
+
+## Skills
+- Data Analysis        
+- Advanced Excel Knowledge
+- Python
+- R
+- SQL
+- Power BI
+- Tableau
+- Spanish Speaking
 
 ## Related Experience
 
 ### Internships
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`November 2021 - Current`
+__TDS Telecom__, Remote
+Data Analyst Intern
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Gathers data from relational databases using SQL statements
 
-### Data Science Lead
+- Analyzes data using python and excel
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+- Prepares weekly, monthly, and quarterly reports
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+## Work History
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+`2020-2021`
+__Premier Performance__, Remote
+Customer Service Representative
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+- input data for customer orders and verified correct shipping information
 
-### Data Science Consulting Team
+- Processed at least 75 orders daily
 
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Trained new employees on how to process specialized orders
 
 
-## Service and Work History
+`2017 - 2020`
+__Red Rock Insurance LLC__, Mesa AZ
+Billingual Insurance Agent
 
-`2025-2027`
-__Math Tutor__, LDSBC
+- Evaluated customer account information to assess current issues and determine solutions through policy research in the company’s database 
 
-
-`2023-2025`
-__Service Missionary__, South Africa
-
-
+- Maintained consistent sales of $75,000 or more each month
 
 <!-- ### Footer
 
