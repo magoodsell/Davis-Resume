@@ -17,12 +17,14 @@ Business Analytics Major at Bringham Young University - Idaho
 
 `2018 - 2020`
 __Mesa Community College__, Mesa, AZ
+
 Associates In Business & Communication
 
 Related Courses: Business Communication, Math Analysis for Business, Managerial Accounting
 
 `Expected 2022`
 __Brigham Young University - Idaho__, Rexburg, ID
+
 Bachelors In Business Analytics
 
 GPA: 3.8
@@ -54,6 +56,7 @@ Related Courses: Data Science Programming, Intro to Databases, Business Analytic
 
 `November 2021 - Current`
 __TDS Telecom__, Remote
+
 Data Analyst Intern
 
 Gathers data from relational databases using SQL statements
@@ -66,6 +69,7 @@ Prepares weekly, monthly, and quarterly reports
 
 `2020-2021`
 __Premier Performance__, Remote
+
 Customer Service Representative
 
 input data for customer orders and verified correct shipping information
@@ -77,6 +81,7 @@ Trained new employees on how to process specialized orders
 
 `2017 - 2020`
 __Red Rock Insurance LLC__, Mesa AZ
+
 Billingual Insurance Agent
 
 Evaluated customer account information to assess current issues and determine solutions through policy research in the company’s database 
